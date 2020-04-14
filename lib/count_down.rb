@@ -1,3 +1,7 @@
 # Write your code here
 
-while 
+count = 10
+
+while count > 0
+do
+end
